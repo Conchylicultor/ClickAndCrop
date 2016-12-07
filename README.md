@@ -4,7 +4,7 @@ A simple program that I developed two years ago while I was in a research labora
 
 ![Screenshot](screenshot.png)
 
-Even if the program is really simple, I also wrote a small [Manuel](VidExtractor_Manual.pdf) back then to detail some functionalities ([multi-camera version](VidsExtractor_Manual.pdf)).
+Even if the program is really simple, I also wrote a small [Manual](VidExtractor_Manual.pdf) back then to detail some functionalities ([multi-camera version](VidsExtractor_Manual.pdf)).
 
 The program require Qt (tested with 5.3) and OpenCv (tested with 2.4.9) To compile the program, simply run:
 
